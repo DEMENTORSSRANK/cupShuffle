@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">716981848321</string>
+  <string name="google_storage_bucket" translatable="false">ruleoli-d607a.appspot.com</string>
+  <string name="project_id" translatable="false">ruleoli-d607a</string>
+  <string name="google_api_key" translatable="false">AIzaSyArA-1rt6S0jc5eGGx792Up0insD-ruq6c</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArA-1rt6S0jc5eGGx792Up0insD-ruq6c</string>
+  <string name="google_app_id" translatable="false">1:716981848321:android:470d4453bc9202eb3a3300</string>
+  <string name="default_web_client_id" translatable="false">716981848321-foc061tctiapusot1g74cmqqpk5kt69o.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716981848321",
+    "project_id": "ruleoli-d607a",
+    "storage_bucket": "ruleoli-d607a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716981848321:android:470d4453bc9202eb3a3300",
+        "android_client_info": {
+          "package_name": "olimp.space.vkos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716981848321-foc061tctiapusot1g74cmqqpk5kt69o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArA-1rt6S0jc5eGGx792Up0insD-ruq6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716981848321-foc061tctiapusot1g74cmqqpk5kt69o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
